@@ -1,12 +1,11 @@
 # README
-![image](https://github.com/tomoprogra/teamplan/assets/144338256/25732507-b885-4e01-b0c8-800964280b20)
+![image](app/assets/images/Xshare.png)
 
 
 # サービス概要
 
 ### サービス名
 To.Gather
-(https://togatherapp.net/)
 
 ### 概要
 グループを作成して、さまざまな人と予定調整ができます
